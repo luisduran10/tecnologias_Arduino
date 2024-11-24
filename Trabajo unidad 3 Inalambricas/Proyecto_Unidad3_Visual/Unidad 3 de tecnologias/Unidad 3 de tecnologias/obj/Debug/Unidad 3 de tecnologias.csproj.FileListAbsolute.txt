@@ -1,0 +1,60 @@
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe.config
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Interop.Accessibility.dll
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.ResolveComReference.cache
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Form1.resources
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Properties.Resources.resources
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.exe
+C:\Users\migue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.pdb
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe.config
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.pdb
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.AssemblyReference.cache
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Interop.Accessibility.dll
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.ResolveComReference.cache
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Form1.resources
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Properties.Resources.resources
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.GenerateResource.cache
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.CoreCompileInputs.cache
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.exe
+E:\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe.config
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Interop.Accessibility.dll
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.ResolveComReference.cache
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Form1.resources
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Properties.Resources.resources
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.exe
+C:\Users\josue\source\repos\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe.config
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Interop.Accessibility.dll
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Form1.resources
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.exe
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Unidad 3 de tecnologias\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe.config
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.exe
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\bin\Debug\Unidad 3 de tecnologias.pdb
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Interop.Accessibility.dll
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Form1.resources
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad_3_de_tecnologias.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.exe
+C:\Users\LENOVO\Desktop\Trabajo unidad 3 Inalambricas\Proyecto_Unidad3_Visual\Unidad 3 de tecnologias\Unidad 3 de tecnologias\obj\Debug\Unidad 3 de tecnologias.pdb
